@@ -1,0 +1,135 @@
+{
+  "users": [
+    {
+      "name": "qwe",
+      "email": "qwe@gmail.com",
+      "mobile": "1234567898",
+      "password": "234",
+      "id": "CqEtieh16Ro"
+    },
+    {
+      "name": "sahana",
+      "email": "sahana@gmail.com",
+      "mobile": "3462873462",
+      "password": "143",
+      "id": "3GcAgUvNw0A"
+    },
+    {
+      "name": "Madhu",
+      "email": "madhu@gmail.com",
+      "mobile": "4567235329",
+      "password": "1234",
+      "id": "f8mK8SvDBlE"
+    },
+    {
+      "name": "sonu",
+      "email": "sonu@gmail.com",
+      "mobile": "2345678912",
+      "password": "098",
+      "id": "uW0lvXqLtVI"
+    },
+    {
+      "name": "raksha",
+      "email": "raksha@gmail.com",
+      "mobile": "1234567891",
+      "password": "143",
+      "id": "2rpHodE_iGg"
+    },
+    {
+      "name": "madhu",
+      "email": "madhu@gmail.com",
+      "mobile": "6362477248",
+      "password": "123",
+      "id": "nTiVheEpZEA"
+    },
+    {
+      "name": "madhu",
+      "email": "madhu@gmail.com",
+      "mobile": "1234567898",
+      "password": "1234",
+      "id": "mKSSeDdgBes"
+    },
+    {
+      "name": "sahana",
+      "email": "sahana@gmail.com",
+      "mobile": "9988776655",
+      "password": "123",
+      "id": "YX5h0R7kNls"
+    }
+  ],
+  "products": [
+    {
+      "id": "1",
+      "title": "Samsung Galaxy F23",
+      "price": 20000,
+      "category": "Electronics",
+      "image": "https://images.unsplash.com/photo-1598327105666-5b89351aff97?auto=format&fit=crop&w=800&q=80",
+      "description": "Samsung Galaxy F23 5G smartphone with a powerful processor, high-quality camera and long-lasting battery.",
+      "rating": 4.8
+    },
+    {
+      "id": "2",
+      "title": "RedTape Running Shoes",
+      "price": 2499,
+      "category": "Fashion",
+      "image": "https://images.unsplash.com/photo-1542291026-7eec264c27ff?auto=format&fit=crop&w=800&q=80",
+      "description": "Comfortable and stylish running shoes designed for everyday use, walking and workouts.",
+      "rating": 4.7
+    },
+    {
+      "id": "3",
+      "title": "Wireless Headphones",
+      "price": 3499,
+      "category": "Electronics",
+      "image": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?auto=format&fit=crop&w=800&q=80",
+      "description": "Premium wireless headphones with immersive sound and long battery life.",
+      "rating": 4.6
+    },
+    {
+      "id": "4",
+      "title": "Smart Watch",
+      "price": 4999,
+      "category": "Accessories",
+      "image": "https://images.unsplash.com/photo-1523275335684-37898b6baf30?auto=format&fit=crop&w=800&q=80",
+      "description": "Modern smartwatch with fitness tracking and notifications.",
+      "rating": 4.8
+    },
+    {
+      "id": "5",
+      "title": "Classic Backpack",
+      "price": 1499,
+      "category": "Accessories",
+      "image": "https://images.unsplash.com/photo-1553062407-98eeb64c6a62?auto=format&fit=crop&w=800&q=80",
+      "description": "Durable everyday backpack with multiple compartments.",
+      "rating": 4.5
+    },
+    {
+      "id": "6",
+      "title": "Modern Table Lamp",
+      "price": 1299,
+      "category": "Home",
+      "image": "https://images.unsplash.com/photo-1507473885765-e6ed057f782c?auto=format&fit=crop&w=800&q=80",
+      "description": "Minimal modern table lamp for your workspace or bedroom.",
+      "rating": 4.4
+    },
+    {
+      "id": "7",
+      "title": "Denim Jacket",
+      "price": 2999,
+      "category": "Fashion",
+      "image": "https://images.unsplash.com/photo-1551028719-00167b16eac5?auto=format&fit=crop&w=800&q=80",
+      "description": "Classic denim jacket with a modern fit.",
+      "rating": 4.7
+    },
+    {
+      "id": "8",
+      "title": "Coffee Maker",
+      "price": 3999,
+      "category": "Home",
+      "image": "https://images.unsplash.com/photo-1517668808822-9ebb02f2a0e6?auto=format&fit=crop&w=800&q=80",
+      "description": "Compact coffee maker for preparing fresh coffee at home.",
+      "rating": 4.6
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}
