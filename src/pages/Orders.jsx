@@ -22,7 +22,7 @@ const Orders = () => {
 
       // Get latest products
       const response = await axios.get(
-        "http://localhost:3000/products"
+        "https://shopsphere-ecommerce-m9d1.onrender.com/products"
       );
 
       const productData = response.data;

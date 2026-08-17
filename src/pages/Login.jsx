@@ -13,7 +13,7 @@ const Login = () => {
     e.preventDefault();
 
     axios
-      .get("http://localhost:3000/users")
+      .get("https://shopsphere-ecommerce-m9d1.onrender.com/users")
       .then((res) => {
         const users = res.data;
 

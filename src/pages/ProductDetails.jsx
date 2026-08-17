@@ -15,7 +15,7 @@ const ProductDetails = () => {
   // Fetch product
   useEffect(() => {
     axios
-      .get(`http://localhost:3000/products/${id}`)
+      .get(`https://shopsphere-ecommerce-m9d1.onrender.com/products/${id}`)
       .then((res) => {
         setProduct(res.data);
         setLoading(false);

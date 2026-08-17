@@ -23,7 +23,7 @@ const Dashboard = () => {
     setLoading(true);
 
     axios
-      .get("http://localhost:3000/products")
+      .get("https://shopsphere-ecommerce-m9d1.onrender.com/products")
       .then((res) => {
         setProducts(res.data);
         setLoading(false);

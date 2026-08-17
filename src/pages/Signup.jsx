@@ -26,7 +26,7 @@ const Signup = () => {
 
 
     axios
-      .post("http://localhost:3000/users", data)
+      .post("https://shopsphere-ecommerce-m9d1.onrender.com/users", data)
       .then(() => {
 
         toast.success("Account created successfully!");
